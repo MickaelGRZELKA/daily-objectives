@@ -10,13 +10,13 @@
     * [ ] Comprendre ce qu'est le `TC-39`
     * [ ] Lister les bonnes sources de documentation
 
-* [ x ] Algo : 
-  * [ x ] Comprendre ce qu'est un algorithme
-  * [ x ] Comprendre l'utilité des algorithmes
-  * [ x ] Déterminer l'importance de l’étude des algorithmes
+* [x] Algo : 
+  * [x] Comprendre ce qu'est un algorithme
+  * [x] Comprendre l'utilité des algorithmes
+  * [x] Déterminer l'importance de l’étude des algorithmes
 
 * [ ] HTML :
-  * [ x ] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
+  * [x] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
   * [ x ]  Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
   * [ ] Découvrir les formulaires et leur validation en HTML5
   * [ ] Comprendre l'utilité et le fonctionnement des labels en HTML5
