@@ -15,6 +15,6 @@
   * [x] Savoir commenter dans une page HTML
   * [x] Découvrir le principe de parents/enfants
   * [x] Découvrir le HTML5 sémantique
-* [ ] Découvrir le maquettage fonctionnel (wireframe)
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Savoir insérer des scripts JS dans une page HTML
+* [x] Découvrir le maquettage fonctionnel (wireframe)
+* [x] Comprendre la différence entre les liens relatifs et liens absolus
+* [x] Savoir insérer des scripts JS dans une page HTML
