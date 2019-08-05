@@ -1,4 +1,4 @@
-# Objectifs journaliers
+## Objectifs journaliers
 
 ## Mardi 30/07/2019
 
@@ -13,9 +13,18 @@
   * [x] Comprendre l'utilité des algorithmes de tri
   * [x] Découvrir le tri par insertion (Insertion Sort)
 
+<<<<<<< HEAD
 * [x] Découvrir le CSS :
   * [x] Comprendre la syntaxe de base
   * [x] Savoir insérer du CSS de différentes manières dans une page HTML
   * [x] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
   * [x] Savoir appliquer une mise une forme sur les éléments 
   * [x] Comprendre le box model
+=======
+* [ ] Découvrir le CSS :
+  * [ ] Comprendre la syntaxe de base
+  * [ ] Savoir insérer du CSS de différentes manières dans une page HTML
+  * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
+  * [ ] Savoir appliquer une mise en forme sur les éléments 
+  * [ ] Comprendre le box model
+>>>>>>> a82b078b970946a5a8e5310fc64a737fc5f39c97
