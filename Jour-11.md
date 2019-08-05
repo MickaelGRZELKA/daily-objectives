@@ -7,8 +7,8 @@
   * [ ] Découvrir les 7 types de données en Javascript et comprendre leurs différences (http://javascript.info/types)
   * [ ] Faire l'exercice
 
-* [ ] Algo : 
-  * [ ] Découvrir le tri par selection (Selection Sort)
+* [x] Algo : 
+  * [x] Découvrir le tri par selection (Selection Sort)
 
 * [ ] CSS : 
   * [ ] Savoir manipuler les polices en CSS
